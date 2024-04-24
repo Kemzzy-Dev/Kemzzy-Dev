@@ -23,6 +23,8 @@ I am Ekemini Udongwo
 ```
 <hr>
 
+<br/>
+
 <h2 align='center'>My Github Stats and Technologies I use </h2>
  
 <table>
